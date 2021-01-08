@@ -1,0 +1,62 @@
+@media (max-width : 991px)
+{
+    .navbar{
+        padding: 5px 30px!important;
+    }
+
+    .navbar-nav .nav-link{
+        padding: 5px 20px;
+        border-bottom: 1px solid #eeeeee;
+    }
+
+    .dropdown-menu{
+        margin-top: 10px!important;
+        margin-bottom: 10px!important;
+    }
+
+}
+
+@media (max-width : 768px)
+{
+    .hero-section{
+        padding: 2rem 0;
+    }
+
+    .hero h1{
+        font-size: 30px;
+    }
+    
+    .hero h1::after{
+        width: 150px;
+    }
+    
+    .hero p{
+        font-size: 15px;
+        margin: 3rem 0;
+    }
+    
+    .hero-btn a{
+        padding: 8px 40px!important;
+        font-size: 15px;
+    }
+
+    .h-btn{
+        margin-top: 2rem;
+        
+    }
+
+    .team-box{
+        margin: 0rem;
+        padding: 0;
+    }
+    
+
+    .team-box img{
+        height: 250px;
+    }
+
+    .t-box img{
+        height: 250px;
+    }
+
+}
